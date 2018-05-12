@@ -1,0 +1,35 @@
+_repo: The-Royal-Observatory-GreenwichA-Glance-at-Its-History-and-Work_44167
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44167-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Maunder, E. Walter (Edward Walter)
+    alias: Maunder, Edward Walter
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '33389'
+    url: http://www.gutenberg.org/2009/agents/33389
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Walter_Maunder
+description: ''
+gutenberg_issued: '2013-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44167'
+  lccn: '03000373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy -- History'
+- !lcc 'QB'
+- !lcsh 'Royal Observatory, Greenwich'
+tableOfContents: Introduction -- Flamsteed -- Halley and his successors -- Airy --
+  The observatory buildings -- The time department -- The transit and circle departments
+  -- The altazimuth department -- The magnetic and meteorological departments -- The
+  heliographic department -- The spectroscopic department -- The astrographic department
+  -- The double-star department -- Index.
+title: 'The Royal Observatory, Greenwich: A Glance at Its History and Work'
+url: http://www.gutenberg.org/ebooks/44167
